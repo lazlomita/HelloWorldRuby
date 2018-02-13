@@ -1,6 +1,7 @@
 #  Compilation:  No copile process needed
 #  Execution:    ruby HelloWorld.rb
 #  Execution:    HelloWorld.rb
+#  Execution:    HelloWorld
 #
 # Print Hello world in Ruby programming language
 puts "Hello world RUBY\n"
